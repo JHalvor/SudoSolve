@@ -1,0 +1,15 @@
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\bin\Debug\net8.0\SudoSolve.console.exe
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\bin\Debug\net8.0\SudoSolve.console.deps.json
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\bin\Debug\net8.0\SudoSolve.console.runtimeconfig.json
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\bin\Debug\net8.0\SudoSolve.console.dll
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\bin\Debug\net8.0\SudoSolve.console.pdb
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.AssemblyInfoInputs.cache
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.AssemblyInfo.cs
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.csproj.CoreCompileInputs.cache
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.sourcelink.json
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.dll
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\refint\SudoSolve.console.dll
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.pdb
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\SudoSolve.console.genruntimeconfig.cache
+C:\Users\JHoff1\Documents\Projects\SudoSolve\SudoSolve.console\obj\Debug\net8.0\ref\SudoSolve.console.dll
