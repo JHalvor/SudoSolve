@@ -11,14 +11,16 @@ namespace SudoSolve.console
         private int _number;
         private List<int> _possibleNumbers;
         private bool _isSet;
-        public int Number { get { return _number; } }
-        public bool IsSet { get { return _isSet; } }
+
         public Cell()
         {
+            _possibleNumbers = new List<int>();
             _isSet = false;
         }
+
         public Cell(int number)
         {
+            _possibleNumbers = new List<int>();
             _number = number;
             _isSet = true;
         }
@@ -36,5 +38,8 @@ namespace SudoSolve.console
             _number = 0;
             _possibleNumbers.Clear();
         }
+
+        public int Number { get { return _number; } }
+        public bool IsSet { get { return _isSet; } }
     }
 }

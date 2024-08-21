@@ -8,17 +8,21 @@ namespace SudoSolve.console
 {
     public class Box
     {
-        public Cell[,] Cells;
+        private Cell[,] _cells;
+        
         public Box(int sideLength)
         {
-            Cells = new Cell[sideLength, sideLength];
+            _cells = new Cell[sideLength, sideLength];
+
             for (int y = 0; y < sideLength; y++)
             {
                 for (int x = 0; x < sideLength; x++)
                 {
-                    Cells[x, y] = new Cell();
+                    _cells[x, y] = new Cell();
                 }
             }
         }
+
+        public Cell[,] Cells { get { return _cells; } }
     }
 }
