@@ -1,4 +1,5 @@
 namespace SudoSolve.tests;
+using SudoSolve.console;
 
 public class Tests
 {
@@ -8,8 +9,11 @@ public class Tests
     }
 
     [Test]
-    public void Test1()
+    public void TestBoardPrint()
     {
-        Assert.Pass();
+        Board board = new Board(3);
+        string result = board.PrintBoard();
+
+        Assert.That(result, Is.Not.Empty);
     }
 }

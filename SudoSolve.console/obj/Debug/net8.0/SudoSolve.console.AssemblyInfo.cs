@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SudoSolve.console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+479f2ac2531c20b497db689253c7a20a72a45b4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ce874b5c78bd04b075dec83cba45a4b7fae766f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SudoSolve.console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SudoSolve.console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
